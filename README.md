@@ -1,5 +1,4 @@
 # TicTacToe
-Instructions to start the game
 -Start Download and Install Atom Editor
 -Download Live Server Package
 # About
