@@ -6,5 +6,5 @@
 # To do
 - Update the algorithmn (The AI is extremely low and terribly writen)
 # Future
-- Will update to own host server soon
+- Forever expanding TicTacToe (idea)
 
