@@ -1,6 +1,6 @@
 # TicTacToe
--Start Download and Install Atom Editor
--Download Live Server Package
+- Start Download and Install Atom Editor
+- Download Live Server Package
 # About
 - Tictactoe minimax recursive algorithmn
 # To do
